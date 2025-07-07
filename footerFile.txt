@@ -1,1 +1,2 @@
 this is footer file and modified 
+here this is a new line in master 
