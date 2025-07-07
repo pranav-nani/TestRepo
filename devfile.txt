@@ -1,2 +1,7 @@
 dev file is modified here 
+<<<<<<< Updated upstream
 dev file is being changed see the diff using git diff --staged
+=======
+dev file is under construction 
+now the dev is finished
+>>>>>>> Stashed changes
